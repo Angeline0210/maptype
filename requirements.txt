@@ -1,2 +1,5 @@
 streamlit
 geopandas
+matplotlib
+numpy
+folium
