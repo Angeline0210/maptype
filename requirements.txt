@@ -3,3 +3,5 @@ geopandas
 matplotlib
 numpy
 folium
+Point
+st_folium
